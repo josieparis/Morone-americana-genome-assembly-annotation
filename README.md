@@ -22,9 +22,9 @@ NB: The ENA upload also includes the raw PacBio HiFi data
 
 ### Access to the genome annotations:
 
-The genome annotations were performed using GALBA (https://github.com/Gaius-Augustus/GALBA) and was cleaned using gFACs (https://gfacs.readthedocs.io/en/latest/index.html)
+The genome annotations were performed using GALBA (https://github.com/Gaius-Augustus/GALBA) and were cleaned using gFACs (https://gfacs.readthedocs.io/en/latest/index.html)
 
-Annotations can be found in the folders 'fale genome annotation' and 'female genome annotation' and include the following files:
+Annotations can be found in the folders 'male genome annotation' and 'female genome annotation' and include the following files:
 
 - xx
 
