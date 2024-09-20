@@ -26,7 +26,9 @@ The genome annotations were performed using GALBA (https://github.com/Gaius-Augu
 
 Annotations can be found in the folders 'male genome annotation' and 'female genome annotation' and include the following files:
 
-- xx
+- raw GALBA gene prediction output (CDS, protein + GTF)
+- filtered GALBA gene prediction output (protein, GTF + GFF)
+- emapper functional annotation results (XLS, TSV + GTF)
 
 
 
